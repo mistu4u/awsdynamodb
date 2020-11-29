@@ -1,0 +1,1 @@
+Sample Spring Boot project to connect to DynamoDB database.
